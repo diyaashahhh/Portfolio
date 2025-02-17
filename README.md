@@ -16,4 +16,4 @@ Animations: React Spring, Framer Motion
 Deployment: Vercel
 
 🌍 Live Demo
-🔗 View Portfolio
+🔗 https://portfolio-diya-shahs-projects.vercel.app/
